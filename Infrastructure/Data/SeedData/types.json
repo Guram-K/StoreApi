@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "KeyBoard"
+  },
+  {
+    "Id": 2,
+    "Name": "Mouse"
+  },
+  {
+    "Id": 3,
+    "Name": "HeadPhone"
+  },
+  {
+    "Id": 4,
+    "Name": "Microphone"
+  }
+]

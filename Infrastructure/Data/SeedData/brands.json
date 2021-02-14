@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "HyperX"
+  },
+  {
+    "Id": 2,
+    "Name": "Razer"
+  },
+  {
+    "Id": 3,
+    "Name": "Logitech"
+  },
+  {
+    "Id": 4,
+    "Name": "Fifine"
+  },
+  {
+    "Id": 5,
+    "Name": "SteelSeries"
+  },
+  {
+    "Id": 6,
+    "Name": "Sennheiser"
+  }
+]

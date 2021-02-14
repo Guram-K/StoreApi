@@ -1,0 +1,101 @@
+[
+  {
+    "Id": 1,
+    "Name": "HyperX Alloy Origins Core",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 89.99,
+    "PictureUrl": "images/products/hk-1.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Id": 2,
+    "Name": "HyperX Cloud Alpha",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 99.99,
+    "PictureUrl": "images/products/hh-1.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Id": 3,
+    "Name": "Razer DeathAdder V2",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 60,
+    "PictureUrl": "images/products/rm-1.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Id": 4,
+    "Name": "Razer Kraken X",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 40,
+    "PictureUrl": "images/products/rh-1.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Id": 5,
+    "Name": "Logitech G502",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 48,
+    "PictureUrl": "images/products/lm-1.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Id": 6,
+    "Name": "Logitech MX Keys",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 99.05,
+    "PictureUrl": "images/products/lk-1.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Id": 7,
+    "Name": "Fifine Metal Condenser",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 36,
+    "PictureUrl": "images/products/fm-1.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Id": 8,
+    "Name": "SteelSeries Arctis Pro",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 249,
+    "PictureUrl": "images/products/sh-1.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5
+  },
+  {
+    "Id": 9,
+    "Name": "SteelSeries Rival 600",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 75,
+    "PictureUrl": "images/products/sm-1.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Id": 10,
+    "Name": "Sennheiser XSW 1-825-A",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 250,
+    "PictureUrl": "images/products/shm-1.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 6
+  },
+  {
+    "Id": 11,
+    "Name": "Sennheiser PXC 550-II",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 191,
+    "PictureUrl": "images/products/shh-1.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 6
+  }
+]
