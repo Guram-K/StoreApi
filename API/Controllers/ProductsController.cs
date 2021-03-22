@@ -7,6 +7,7 @@ using Core.Models;
 using Core.Specifications;
 using Core.Specifications.Implementation;
 using Core.Specifications.Implementation.ModelSpecification;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
@@ -54,6 +55,13 @@ namespace API.Controllers
                 return NotFound(new ApiResponse(404));
 
             return _mapper.Map<Product, ProductReturnDto>(product);
+        }
+
+        [HttpGet("sec")]
+        [Authorize]
+        public async Task<ActionResult<string>> GetSecret()
+        {
+            return Ok("Secret") ;
         }
     }
 }
